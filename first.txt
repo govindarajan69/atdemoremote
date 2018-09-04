@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is my first text file in casestudy02.
+=======
+this is my first text file. 
+modified.
+>>>>>>> casestudy01
